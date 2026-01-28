@@ -1,3 +1,0 @@
--   update knowledge and skill checklist
--   start collect resource for learning python data processing: pandas and numpy
--   complete greedy algorithm study.

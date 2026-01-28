@@ -1,1 +1,0 @@
-Today I review numpy, pandas. The review notes I made for today's work are placed in the preparation folder. What is more, I created and finished a toy project, with the name of "project-netflix-analysis.ipynb". Any one who is also interested in the coding are welcomed to have a look and leave your comment! @Jiaxuan @Haozhong 
